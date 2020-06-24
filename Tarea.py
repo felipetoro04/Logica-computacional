@@ -18,21 +18,3 @@ if figura == 3:
     def area():
         return (base * altura) ** 2
     print("el area del rectangulo es:", area())
-
-
-
-
-
-
-
-#cuadrado
-
-
-
-
-#rectangulo
-
-
-
-
-#triangulo
